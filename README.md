@@ -34,7 +34,7 @@ Developed a case study on UPI fraud and created a prevention checklist to spread
 - GitHub
 - LinkedIn
 - Kaggle
-- HackerRank
+- Codechef
 - Google Forms
 
 ---
